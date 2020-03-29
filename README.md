@@ -1,5 +1,4 @@
 # ashitaka
 A sample markdown repo for testing Eboshi
 
-Congratulations, Eboshi is working!
-Test push 1
+https://vignette.wikia.nocookie.net/disney/images/4/49/Ashitaka.jpg/revision/latest?cb=20140421213740
